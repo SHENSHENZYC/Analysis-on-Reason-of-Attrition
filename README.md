@@ -1,4 +1,4 @@
-# AnalysisOnReasonOfAttrition
+# Analysis on Reasons of Attrition
 An EDA on Reasons/Patterns of Attrition given Data of Employees in a Company
 
 Description:
