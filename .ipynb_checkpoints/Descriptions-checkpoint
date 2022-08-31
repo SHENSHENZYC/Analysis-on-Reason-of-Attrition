@@ -1,0 +1,67 @@
+This report analyzes on a main focus: what makes employees in the company leave or stay, attempting to find reason or patterns that drives people quitting from their job. 
+
+First, we provide a overview on the distribution of employees' attrition over all departments in the company. 
+
+...
+(percentage of people leaving vs salary level - guru)
+
+# on "Number of Employees (Left/Stayed) over Departments"
+
+The above plot presents the headcounts of people left from each department, as well as the headcount of each department before those who left. The department of Management has the lowest headcount among all departments on both of the statistics mentioned above. 
+On the other hand, Sales, Technical and Support are the top three departments with most employees in the company, and at the same time, the top three major sources of resigned employees. In particular, the Sales department alone, had over 4000 employees and around 1000 of them resigned. 
+
+Since the primary task of this report focuses on the quitting, we, going further, will focus on the top three major departments mentioned above as these are where a majority of attritions took place in the company. 
+
+# on "Percentage of Employees Left in Top 3 Departments"
+
+The above plot researches on the dimensions of **salary** and **promotions** while keeping its focus among the three top major departments in the company. It is quite evident that people with lower salary are more inclined to quit their job, especially in the Sales and Support department. The difference in percentages of resignication between high salary and low salary group in the Sales department reaches about **28%**. 
+On the other hand, the plot shows a much higher proportion of people resigning if they have **never** been promoted in the last five years. The difference in percentages between people who have been promoted or not in the Sales department reaches about **18%**.
+
+It seems that salary and opportunity of promotions are two critical elements when people make decisions on quitting the job. Therefore, it is equally essential to evaluate whether the company's assessment system on employees is reliable, in other words, whether the company offers higher salary and promotion opportunities to the "right" people. 
+
+# on "Average Score of Last Evaluation over Salary Groups"
+
+This plot shows the average score of last evaluation per group while people are grouped by their salary level and promotion opportunity (i.e. if given a promotion). We see that there is no significant difference in evaluation scores between any two groups, regardless of what salary level people are offered. Furthermore, Each group's average evaluation score shows a negligible difference from the overall average score of the company. These all suggest that the salary level and promotion opportunities that people get are not reflecting how well/bad they perform while working. In other words, the company assessment system malfunctions and is draining people's loyalty to the company. Changes must be made so that every employee gets the rewards and opportunities they deserve.
+
+
+###########################################
+
+...
+(average satisfaction level of employees - guru)
+kinda shows satisfaction level is correlated to people's salary level and whether they get promoted or not, and thus is another substantial factor affecting people's decision on leaving/staying.
+
+Therefore, we would like to take an alternative approach of our analysis  on how the satisfaction level and the amount of work people have done for their job affects their decision of leaving or staying. 
+
+# on Monthly Working Hours vs Satisfaction Level
+
+Every single dot in the above scatter plot represents an employee in the company. The blue ones represent the employees who left, while the light grey ones are the staying.
+We can see from the above plot that there are three main clusters that represent the resigning employees. About **77.82%** resigning employees are included in the above three clusters.
+The first cluster is at the bottom right corner, where people's monthly working hours is between 240 - 330, and satisfaction level is around 8 (in a scale of 100). This cluster contributes to about 21.59% of resigning people. 
+The second cluster is at the center left, where people's monthly working hours is between 125 - 165, and satisfaction level is between 35 - 45 (in a scale of 100). This cluster contributes to about 40.83% of resigning people.
+The third cluster, not as squeezed as the previous two though, is loosely located at the upper right corner, where people's monthly working hours is between 220 - 275, and satisfaction level is between 72 - 90 (in a scale of 100). This cluster contributes to about 15.40% of resigning people.
+
+We notice that there are clear patterns between satisfaction level and number of hours employees have to work monthly in average. Therefore, we want to investigate further about the relations among satisfaction level, monthly working hours, number of projects each employee currently working on, and how these relations affect people resigning or not.
+
+...
+(satisfaction level & percentage of people leaving vs number of projects - guru)
+
+...
+(violinplot on working hours vs number of projects, separated by people leaving/staying - yuhsin)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
